@@ -29,7 +29,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.7.7",
     "mongoose-relationship": "^0.1.5",
-    "pm2": "^4.1.2",
+    "pm2": "^5.2.0",
     "query-types": "^0.1.4"
   }
 }
