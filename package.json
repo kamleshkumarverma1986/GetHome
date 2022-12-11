@@ -26,7 +26,7 @@
     "@google-cloud/storage": "^4.0.0",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.7.7",
     "mongoose-relationship": "^0.1.5",
     "pm2": "^4.1.2",
